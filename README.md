@@ -43,4 +43,4 @@ The code in this repository has been created and edited by [S. Zammuto](https://
 
 ## Citation
 
-For citing this work of research, please refer to the DOI __[https://doi.org/10.1016/j.robot.2023.104362](https://doi.org/10.1016/j.robot.2023.104362)__ for the original paper, or access the `CITATION.cff` file for information about the software published in this repository.
+For citing this research, please refer to the DOI __[https://doi.org/10.1016/j.robot.2023.104362](https://doi.org/10.1016/j.robot.2023.104362)__ for the original paper, or access the `CITATION.cff` file for information about the software published in this repository.
