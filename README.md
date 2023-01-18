@@ -10,7 +10,7 @@ This repository contains the code that implements the procedure proposed in the 
   - [Technologies Used](#technologies-used)
   - [Preview](#preview)
   - [Future works](#future-works)
-  - [Contact](#contact)
+  - [Contacts](#contacts)
   - [Citation](#citation)
 
 ## Abstract
@@ -37,9 +37,13 @@ In our work, we ran the code on our laptop, remotely calling the IBMQuantum simu
 
 Indeed, a quantum swarm algorithm can be considered a form of quantum distributed algorithm, enhanced by the quantum component. Thus, the multiple processors required in a distributed algorithm can be identified with the simple processors integrated on each robot of the swarm. In addition, further research can address comparisons with Markov-based decision processes, comparing Markovian (memory-less) with non-Markovian time evolution, analyzing the necessary amount of information to be retained for a successful search and rescue swarm mission. The forthcoming application of the proposed code to MQTT will prepare the ground for tests with real robots. Regarding possible future experiments, we envisage a test with three Peppers. Pepper is a complex robot, diverse from robots usually exploited for swarm robotics. However, mechanisms of message exchanging, position set up, path planning, obstacle avoidance can be implemented as well. Thus, we can imagine a toy-swarm constituted by three Peppers. Messages can also be loudly spoken out by robots. The steps of logic gate implementation and path planning of each robot (or, by an external computer connected with robots) can be verbalized through the innerspeech. In such a research, we may borrow results from the quantum vocal theory of sound. Our research is meant to be a further step in quantum-computing resource exploration. The application of quantum logic gates to robotic decision-making systems fosters new developments in rapidly-developing interdisciplinary fields. This line of research opens the way to new scenarios of robotics, industry, and ultimately, human knowledge.
 
-## Contact
+## Contacts
 
 The code in this repository has been created and edited by [S. Zammuto](https://github.com/salvatorezam) and [M. Mannone](https://github.com/medusamedusa). For any inquiry about the implementation, feel free to contact us!
+
+| __S. Zammuto__  | E-mail - salvatore_zam@outlook.it |
+| ------------- | ------------- |
+| __M. Mannone__  | E-mail - mariacaterina.mannone@unipa.it |
 
 ## Citation
 
